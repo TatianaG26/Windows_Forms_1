@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_Введение", "WF_Введение\WF_Введение.csproj", "{CB59ED13-9673-456D-8960-9CF2E83BE1B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задание_2", "Задание_2\Задание_2.csproj", "{C2F5FC9E-2574-485E-A5B5-AFF7113411CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задание_3", "Задание_3\Задание_3.csproj", "{FF1A31FC-31AB-4873-BE5F-615E2C7B8463}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB59ED13-9673-456D-8960-9CF2E83BE1B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB59ED13-9673-456D-8960-9CF2E83BE1B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB59ED13-9673-456D-8960-9CF2E83BE1B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB59ED13-9673-456D-8960-9CF2E83BE1B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2F5FC9E-2574-485E-A5B5-AFF7113411CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F5FC9E-2574-485E-A5B5-AFF7113411CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F5FC9E-2574-485E-A5B5-AFF7113411CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F5FC9E-2574-485E-A5B5-AFF7113411CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF1A31FC-31AB-4873-BE5F-615E2C7B8463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF1A31FC-31AB-4873-BE5F-615E2C7B8463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF1A31FC-31AB-4873-BE5F-615E2C7B8463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF1A31FC-31AB-4873-BE5F-615E2C7B8463}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {971D5637-327C-4D1E-9178-853C2780F93D}
+	EndGlobalSection
+EndGlobal
